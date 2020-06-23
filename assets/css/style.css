@@ -1120,15 +1120,6 @@ section {
   font-size: 13px;
 }
 
-.contact .php-email-form .error-message {
-  display: none;
-  color: #fff;
-  background: #ed3c0d;
-  text-align: center;
-  padding: 15px;
-  font-weight: 600;
-}
-
 .contact .php-email-form .sent-message {
   display: none;
   color: #fff;
@@ -1137,6 +1128,16 @@ section {
   padding: 15px;
   font-weight: 600;
 }
+
+.contact .php-email-form .error-message {
+  display: none;
+  color: #fff;
+  background: #18d26e;
+  text-align: center;
+  padding: 15px;
+  font-weight: 600;
+}
+
 
 .contact .php-email-form .loading {
   display: none;
